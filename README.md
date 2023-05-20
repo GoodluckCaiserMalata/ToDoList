@@ -18,7 +18,7 @@ To run the application locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/my-react-application.git
+   https://github.com/GoodluckCaiserMalata/ToDoList
    ```
 
    This will create a local copy of the repository on your machine.
