@@ -87,5 +87,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 - We would like to thank [individual/group] for their contributions and support.
 ```
 
-Please note that this is a Markdown file, so make sure to save it with the ".md" extension (e.g., README.md) for it to be recognized as a Markdown file by platforms like GitHub.
 
